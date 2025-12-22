@@ -21,4 +21,4 @@ addBookToLibrary('The Hobbit', 'J.R.R. Tolkien', 295, true);
 addBookToLibrary('1984', 'George Orwell', 328, false);
 addBookToLibrary('To Kill a Mockingbird', 'Harper Lee', 281, true);
 
-console.log(myLibrary.Book);
+console.log(myLibrary);

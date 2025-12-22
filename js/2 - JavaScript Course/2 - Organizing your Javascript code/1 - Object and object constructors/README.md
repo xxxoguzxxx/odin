@@ -1,0 +1,1 @@
+I learned how to organize my javascript code
